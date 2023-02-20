@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andyfriedl
-- 👀 I’m interested in python, Arduino, Rasperry Pi
-- 🌱 I’m continuing to keep learning python
-- 💞️ I’m looking to collaborate on something but not sure
+- 👀 I’m interested in python, Arduino, Rasperry Pi, pygame
+- 🌱 Keep learning 
 - 📫 How to reach me andyfriedl@gmail.com
 
 
