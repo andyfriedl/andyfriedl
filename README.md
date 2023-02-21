@@ -1,6 +1,6 @@
-![#16C8F0](https://via.placeholder.com/15/16C8F0/000000?text=+) Hi, I’m @andyfriedl
-![#F0AB16](https://via.placeholder.com/15/F0AB16/000000?text=+) Keep learning 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) How to reach me andyfriedl@gmail.com
+- ![#16C8F0](https://via.placeholder.com/15/16C8F0/000000?text=+) Hi, I’m @andyfriedl
+- ![#F0AB16](https://via.placeholder.com/15/F0AB16/000000?text=+) Keep learning 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) How to reach me andyfriedl@gmail.com
 
 
 
